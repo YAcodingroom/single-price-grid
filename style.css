@@ -42,8 +42,9 @@ body {
     padding: 2.5rem;
 }
 
-.section h4 {
+.section h2 {
     font-weight: 700;
+    font-size: 25px;
     margin-bottom: 1.5rem;
 }
 
